@@ -23,7 +23,6 @@ const routes = [
     name:'Ayuda',
     component: Ayuda
   },
-
   {
     path: '/about',
     name: 'About',

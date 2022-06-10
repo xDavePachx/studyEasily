@@ -1,9 +1,8 @@
 <template >
   <div id="about" class="about" align="center">
     <div id="nav">
-      <img src="@/assets/m1.jpeg" id="icon" alt="User Icon" width="200" /> |
+      <img src="@/assets/m1.png" id="icon" alt="User Icon" width="100" /> |
       <router-link to="/">Register</router-link> |
-      <router-link to="/about">Vista previa</router-link> |
       <router-link to="/ayuda">Ayuda</router-link> |
       <router-link to="/tutores">Tutores</router-link>
       
@@ -30,7 +29,7 @@
 
     <br />
     <br />
-    <h1 style="color: white">Materias disponibles</h1>
+    <h1>Materias disponibles</h1>
 
     <br />
     <br />
@@ -110,15 +109,15 @@
 
 <style scoped>
 #about {
-  background: black;
+  background: white;
 }
 
 h1 {
-  color: white;
+  color: #4C5A88;
 }
 
 h5 {
-  color: white;
+  color: #4C5A88;
 }
 
 /*      */

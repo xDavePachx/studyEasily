@@ -2,7 +2,7 @@
   <div class="home">
     <div class="wrapper fadeInDown">
       <div id="nav" width="50rem">
-        <img src="@/assets/m1.jpeg" id="icon" alt="User Icon"  /> |
+        <img height="200"  width="300" src="@/assets/m1.png" id="icon" alt="User Icon"  /> |
         <router-link to="/">Login</router-link> |
         <router-link to="/about">Vista previa</router-link>
       </div>
@@ -14,7 +14,7 @@
 
         <!-- Icono -->
         <div class="fadeIn first">
-          <img src="@/assets/m1.jpeg" id="icon" alt="User Icon" />
+          <img src="@/assets/m1.png" id="icon" alt="User Icon" height="200"  width="300"/>
         </div>
 
         <!-- Formulario de logeo -->
